@@ -38,5 +38,7 @@ Pluma - Plug-in Management Framework
 
     (2) make
     
-    (3) ./example/src/output/SimpleWarrior
+    (3) cd ./example/src/output
+
+    (4) ./SimpleWarrior
 
